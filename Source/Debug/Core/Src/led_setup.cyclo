@@ -1,0 +1,5 @@
+../Core/Src/led_setup.c:11:6:BlinkingRedLed	1
+../Core/Src/led_setup.c:15:6:BlinkingGreenLed	1
+../Core/Src/led_setup.c:19:6:BlinkingYellowLed	1
+../Core/Src/led_setup.c:23:6:BlinkingBlueLed	1
+../Core/Src/led_setup.c:27:6:BlinkingPinkLed	1

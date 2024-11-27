@@ -1,0 +1,5 @@
+../Core/Src/led_setup.c:11:6:BlinkingRedLed	8	static
+../Core/Src/led_setup.c:15:6:BlinkingGreenLed	8	static
+../Core/Src/led_setup.c:19:6:BlinkingYellowLed	8	static
+../Core/Src/led_setup.c:23:6:BlinkingBlueLed	8	static
+../Core/Src/led_setup.c:27:6:BlinkingPinkLed	8	static
